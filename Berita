@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Berita - Kelurahan Cakung Timur</title>
+<style>
+body{margin:0;font-family:Roboto;background:#f4f6f9;}
+header{background:#002b5c;color:white;padding:15px 40px;}
+nav a{color:white;margin-right:20px;text-decoration:none;}
+.container{max-width:1000px;margin:auto;padding:50px 20px;}
+.news{background:white;padding:20px;margin-bottom:20px;border-left:4px solid #00509e;}
+footer{background:#001f3f;color:white;text-align:center;padding:20px;}
+</style>
+</head>
+<body>
+
+<header>
+<nav>
+<a href="index.html">Beranda</a>
+<a href="profil.html">Profil</a>
+<a href="layanan.html">Layanan</a>
+<a href="berita.html">Berita</a>
+<a href="kontak.html">Kontak</a>
+</nav>
+</header>
+
+<div class="container">
+<h2>Berita & Pengumuman</h2>
+
+<div class="news">
+<h4>Jadwal Posyandu</h4>
+<p>Dilaksanakan minggu ke-2 setiap bulan.</p>
+</div>
+
+<div class="news">
+<h4>Kerja Bakti Lingkungan</h4>
+<p>Setiap hari Minggu pukul 07.00 WIB.</p>
+</div>
+
+</div>
+
+<footer>
+Informasi Resmi Kelurahan Cakung Timur
+</footer>
+
+</body>
+</html>
