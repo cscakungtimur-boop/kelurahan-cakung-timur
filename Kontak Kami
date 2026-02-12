@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Kontak - Kelurahan Cakung Timur</title>
+<style>
+body{margin:0;font-family:Roboto;background:#f4f6f9;}
+header{background:#002b5c;color:white;padding:15px 40px;}
+nav a{color:white;margin-right:20px;text-decoration:none;}
+.container{max-width:800px;margin:auto;padding:50px 20px;}
+form{background:white;padding:25px;border-radius:8px;}
+input,textarea{width:100%;padding:10px;margin-bottom:15px;border:1px solid #ccc;border-radius:6px;}
+button{background:#002b5c;color:white;padding:10px;border:none;border-radius:6px;width:100%;}
+footer{background:#001f3f;color:white;text-align:center;padding:20px;margin-top:40px;}
+</style>
+</head>
+<body>
+
+<header>
+<nav>
+<a href="index.html">Beranda</a>
+<a href="profil.html">Profil</a>
+<a href="layanan.html">Layanan</a>
+<a href="berita.html">Berita</a>
+<a href="kontak.html">Kontak</a>
+</nav>
+</header>
+
+<div class="container">
+<h2>Kontak Kami</h2>
+
+<form>
+<input type="text" placeholder="Nama Lengkap" required>
+<input type="email" placeholder="Email">
+<textarea rows="4" placeholder="Pesan Anda"></textarea>
+<button type="submit">Kirim Pesan</button>
+</form>
+
+</div>
+
+<footer>
+Kelurahan Cakung Timur - Jakarta Timur
+</footer>
+
+</body>
+</html>
