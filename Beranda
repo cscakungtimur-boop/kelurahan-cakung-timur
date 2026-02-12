@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Kelurahan Cakung Timur</title>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap" rel="stylesheet">
+<style>
+body {margin:0;font-family:'Roboto',sans-serif;background:#f4f6f9;}
+header {background:#002b5c;color:white;padding:15px 40px;display:flex;align-items:center;justify-content:space-between;}
+header h1 {font-size:18px;margin:0;}
+nav a {color:white;margin-left:20px;text-decoration:none;font-weight:500;}
+.hero {background:#00509e;color:white;padding:80px 20px;text-align:center;}
+.hero h2 {margin:0;font-size:32px;}
+.container {max-width:1100px;margin:auto;padding:60px 20px;}
+.card {background:white;padding:25px;margin-bottom:20px;border-radius:8px;box-shadow:0 3px 10px rgba(0,0,0,0.05);}
+footer {background:#001f3f;color:white;text-align:center;padding:20px;}
+</style>
+</head>
+<body>
+
+<header>
+<h1>Kelurahan Cakung Timur</h1>
+<nav>
+<a href="index.html">Beranda</a>
+<a href="profil.html">Profil</a>
+<a href="layanan.html">Layanan</a>
+<a href="berita.html">Berita</a>
+<a href="kontak.html">Kontak</a>
+</nav>
+</header>
+
+<section class="hero">
+<h2>Website Resmi Kelurahan Cakung Timur</h2>
+<p>Kecamatan Cakung • Kota Administrasi Jakarta Timur</p>
+</section>
+
+<div class="container">
+<div class="card">
+<h3>Sambutan Lurah</h3>
+<p>Selamat datang di website resmi Kelurahan Cakung Timur. Website ini sebagai sarana informasi dan pelayanan publik bagi masyarakat.</p>
+</div>
+
+<div class="card">
+<h3>Informasi Pelayanan</h3>
+<p>Jam Pelayanan: Senin – Jumat, 08.00 – 16.00 WIB</p>
+<p>Semua layanan tidak dipungut biaya sesuai ketentuan.</p>
+</div>
+</div>
+
+<footer>
+© 2026 Kelurahan Cakung Timur - Jakarta Timur
+</footer>
+
+</body>
+</html>
